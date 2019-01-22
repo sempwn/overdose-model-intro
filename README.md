@@ -16,10 +16,10 @@ These instructions will get you a copy of the notebook up and running on your lo
 
 ### Prerequisites
 
-The easiest way to get up and running is to install [Anaconda](https://www.anaconda.com/download/_), which provides `python`, numerous scientific libraries as well as `jupyter`. Once [Anaconda](https://www.anaconda.com/download/) is installed, navigate to directory for this repository and run `jupyter` via the command line:
+The easiest way to get up and running is to install [Anaconda](https://www.anaconda.com/download/_), which provides `python`, numerous scientific libraries as well as `jupyter`. Once [Anaconda](https://www.anaconda.com/download/) is installed, navigate to directory for this repository and run `jupyter` via the command line (using the example directory `/Projects/Tutorial/`):
 
 ```bash
-cd DIRECTORY
+cd  /Projects/Tutorial/
 jupyter notebook
 ```
 You can also launch `jupyter` through the [Anaconda Navigator](https://www.anaconda.com/distribution/#feature-desktop-gui).
