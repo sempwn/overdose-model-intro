@@ -24,7 +24,7 @@ jupyter notebook
 ```
 You can also launch `jupyter` through the [Anaconda Navigator](https://www.anaconda.com/distribution/#feature-desktop-gui).
 
-## Installing
+### Installing
 
 The repository requires the library [pymc3](https://pymc3.readthedocs.io/en/latest/_) to run. To install open a terminal (can be done in a notebook session) and run the following command:
 
@@ -38,6 +38,9 @@ For plotting install the package [seaborn](https://seaborn.pydata.org) using the
 conda install -c anaconda seaborn
 ```
 
+### Opening notebook
+
+Once the jupyter session is running navigate to the notebook [model_introduction.ipynb](model_introduction.ipynb)
 
 ## License
 
